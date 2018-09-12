@@ -1,24 +1,161 @@
-JupyterCon2018:
-  event_name: Jupytercon NY 2018
-  event_link: https://conferences.oreilly.com/jupyter/jup-ny/
-  talk_link: https://conferences.oreilly.com/jupyter/jup-ny/public/schedule/detail/68520
-  talk_description: "Many of us believe that gender diversity in open source projects is important (for example, O’Reilly, Google, and the Python Software Foundation). (If you don’t, this isn’t going to convince you.) But what things are correlated with improved gender diversity, and what can we learn from similar historic industries?
-
-Holden Karau and Matt Hunt explore the diversity of different projects, examine historic EEOC complaints, and detail parallels and historic solutions. To keep things interesting, Holden and Matt conclude with a comparative analysis of the state of OSS and various complaints handled by the EEOC in the ’60s, along with the solutions, suggestions, and binding settlements that were reached for similar diversity problems in other industries. This comparison is not legal advice but rather examples of what we can learn from early equal opportunity commission decisions.
-
-Topics include:
-
-Diversity of gender among the different levels of a given project’s leadership (committers, PMC, etc.)
-The existence of codes of conduct
-Language used in comments, code, and mailing lists
-The rate of promotions for project participants"
-  copresenters: Matt Hunt
-  location: "New York"
-  title: "What things are correlated with gender diversity: A dig through the ASF and Jupyter projects"
-  tags:
-    - jupytercon
-    - apachespark
-  repo_link: https://github.com/holdenk/diversity-analytics/
-  discussion_link: https://groups.google.com/forum/#!forum/oss-diversity-discussion
-  slides_link: https://www.slideshare.net/hkarau/jupyter-con-2018-diversity-analytics-oss-adventures
+Jupytercon NY 2018:
+  blog_fmt_text: null
+  copresenters: [Matt Hunt]
   date: 2018-08-24
+  description: null
+  discussion_link: https://groups.google.com/forum/#!forum/oss-diversity-discussion
+  event_link: https://conferences.oreilly.com/jupyter/jup-ny/
+  event_name: Jupytercon NY 2018
+  event_type: null
+  last_post_text: 'Thanks for joining us on 2018-08-24 at Jupytercon NY 2018 New York
+    for <a href="https://oreil.ly/2N8NU8p">What things are correlated with gender
+    diversity: A dig through the ASF and Jupyter projects</a>.The talk covered: <p>Many
+    of us believe that gender diversity in open source projects is important (for
+    example, OReilly, Google, and the Python Software Foundation). (If you don''t,
+    this isn''t going to convince you.) But what things are correlated with improved
+    gender diversity, and what can we learn from similar historic industries?</p>
+
+
+    <p>Holden Karau and Matt Hunt explore the diversity of different projects, examine
+    historic EEOC complaints, and detail parallels and historic solutions. To keep
+    things interesting, Holden and Matt conclude with a comparative analysis of the
+    state of OSS and various complaints handled by the EEOC in the 60s, along with
+    the solutions, suggestions, and binding settlements that were reached for similar
+    diversity problems in other industries. This comparison is not legal advice but
+    rather examples of what we can learn from early equal opportunity commission decisions.</p>
+
+
+    <p>Topics include:</p>
+
+
+    <ul>
+
+    <li>Diversity of gender among the different levels of a given project''s leadership
+    (committers, PMC, etc.)</li>
+
+    <li>The existence of codes of conduct</li>
+
+    <li>Language used in comments, code, and mailing lists</li>
+
+    <li>The rate of promotions for project participants</li>
+
+    </ul>
+
+    .<p>You can find the code for this <a href="http://bit.ly/2BJJXT5">talk at https://github.com/holdenk/diversity-analytics/</a>.The
+    <a href="http://bit.ly/2CcvsY7">slides are at http://bit.ly/2CcvsY7</a>.</p><a
+    href="http://bit.ly/2N8XlEO">Join in the discussion at http://bit.ly/2N8XlEO</a>
+    :).<a href="http://bit.ly/holdenTalkFeedback">Talk feedback is appreciated at
+    http://bit.ly/holdenTalkFeedback</a>'
+  location: New York
+  parsed: null
+  post_id: '6062499990292128079'
+  post_link: http://blog.holdenkarau.com/2018/09/what-things-are-correlated-with-gender_8.html
+  repo_link: https://github.com/holdenk/diversity-analytics/
+  short_discussion_link: http://bit.ly/2N8XlEO
+  short_event_link: https://oreil.ly/2MKzVGA
+  short_post_link: http://bit.ly/2CAMTSA
+  short_repo_link: http://bit.ly/2BJJXT5
+  short_slides_link: http://bit.ly/2CcvsY7
+  short_talk_link: https://oreil.ly/2N8NU8p
+  short_video_link: null
+  slides_link: https://www.slideshare.net/hkarau/jupyter-con-2018-diversity-analytics-oss-adventures
+  start: null
+  synced_to_blog: null
+  tags: [jupytercon, apachespark]
+  talk_description: 'Many of us believe that gender diversity in open source projects
+    is important (for example, OReilly, Google, and the Python Software Foundation).
+    (If you don''t, this isn''t going to convince you.) But what things are correlated
+    with improved gender diversity, and what can we learn from similar historic industries?
+
+
+    Holden Karau and Matt Hunt explore the diversity of different projects, examine
+    historic EEOC complaints, and detail parallels and historic solutions. To keep
+    things interesting, Holden and Matt conclude with a comparative analysis of the
+    state of OSS and various complaints handled by the EEOC in the 60s, along with
+    the solutions, suggestions, and binding settlements that were reached for similar
+    diversity problems in other industries. This comparison is not legal advice but
+    rather examples of what we can learn from early equal opportunity commission decisions.
+
+
+    Topics include:
+
+
+    - Diversity of gender among the different levels of a given project''s leadership
+    (committers, PMC, etc.)
+
+    - The existence of codes of conduct
+
+    - Language used in comments, code, and mailing lists
+
+    - The rate of promotions for project participants'
+  talk_link: https://conferences.oreilly.com/jupyter/jup-ny/public/schedule/detail/68520
+  title: 'What things are correlated with gender diversity: A dig through the ASF
+    and Jupyter projects'
+  video_link: null
+Open Source Summit:
+  blog_fmt_text: null
+  copresenters: ['@rawkintrevo']
+  date: 2018-08-30
+  description: null
+  discussion_link: null
+  event_link: null
+  event_name: Open Source Summit
+  event_type: talk
+  last_post_text: 'Thanks for joining us on 2018-08-30 at Open Source Summit 2018
+    Vancouver, BC, Canada for <a href="http://bit.ly/2Ltt8LR">Introducing KubeFlow:
+    A System for Deploying ML/AI on Kubernetes </a>.I''ll update this post with the
+    slides soon.Comment bellow to join in the discussion :).<a href="http://bit.ly/holdenTalkFeedback">Talk
+    feedback is appreciated at http://bit.ly/holdenTalkFeedback</a>'
+  location: Vancouver, BC, Canada
+  parsed: null
+  post_id: '7102108156810641565'
+  post_link: http://blog.holdenkarau.com/2018/09/introducing-kubeflow-system-for_8.html
+  repo_link: null
+  short_discussion_link: null
+  short_event_link: null
+  short_post_link: http://bit.ly/2QgsqF9
+  short_repo_link: null
+  short_slides_link: null
+  short_talk_link: http://bit.ly/2Ltt8LR
+  short_video_link: null
+  slides_link: null
+  start: 2018-08-30 16:00:00-07:00
+  synced_to_blog: null
+  tags: ['@rawkintrevo @linuxfoundation']
+  talk_description: null
+  talk_link: https://ossna18.sched.com/event/FAOJ/introducing-kubeflow-a-system-for-deploying-mlai-on-kubernetes-trevor-grant-ibm-holden-karau-google
+  title: 'Introducing KubeFlow: A System for Deploying ML/AI on Kubernetes '
+  video_link: null
+Strata NY:
+  blog_fmt_text: null
+  copresenters: ['@warre_n_peace']
+  date: 2018-09-13
+  description: null
+  discussion_link: null
+  event_link: null
+  event_name: Strata NY
+  event_type: signing
+  last_post_text: Come join us on 2018-09-13 at Strata NY 2018 New York, NY, USA for
+    High Performance Spark Book Signing.Come see to the signing or comment bellow
+    to join in the discussion :).<a href="http://bit.ly/holdenTalkFeedback">Talk feedback
+    is appreciated at http://bit.ly/holdenTalkFeedback</a>
+  location: New York, NY, USA
+  parsed: null
+  post_id: '3307160329760644496'
+  post_link: http://blog.holdenkarau.com/2018/09/high-performance-spark-book-signing_0.html
+  repo_link: null
+  short_discussion_link: null
+  short_event_link: null
+  short_post_link: http://bit.ly/2oZE230
+  short_repo_link: null
+  short_slides_link: null
+  short_talk_link: null
+  short_video_link: null
+  slides_link: null
+  start: 2018-09-13 10:50:00-04:00
+  synced_to_blog: null
+  tags: ['#stratany', '#oreilly', '@highperfspark']
+  talk_description: null
+  talk_link: null
+  title: High Performance Spark Book Signing
+  video_link: null
