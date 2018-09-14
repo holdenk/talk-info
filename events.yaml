@@ -1,4 +1,4 @@
-Jupytercon NY 2018:
+'Jupytercon NY 2018:What things are correlated with gender diversity: A dig through the ASF and Jupyter projects':
   blog_fmt_text: null
   copresenters: [Matt Hunt]
   date: 2018-08-24
@@ -92,7 +92,7 @@ Jupytercon NY 2018:
   title: 'What things are correlated with gender diversity: A dig through the ASF
     and Jupyter projects'
   video_link: null
-Open Source Summit:
+'Open Source Summit:Introducing KubeFlow: A System for Deploying ML/AI on Kubernetes ':
   blog_fmt_text: null
   copresenters: ['@rawkintrevo']
   date: 2018-08-30
@@ -126,7 +126,7 @@ Open Source Summit:
   talk_link: https://ossna18.sched.com/event/FAOJ/introducing-kubeflow-a-system-for-deploying-mlai-on-kubernetes-trevor-grant-ibm-holden-karau-google
   title: 'Introducing KubeFlow: A System for Deploying ML/AI on Kubernetes '
   video_link: null
-Strata NY:
+Strata NY:High Performance Spark Book Signing:
   blog_fmt_text: null
   copresenters: ['@warre_n_peace']
   date: 2018-09-13
@@ -158,4 +158,41 @@ Strata NY:
   talk_description: null
   talk_link: null
   title: High Performance Spark Book Signing
+  video_link: null
+Strata NY:Understanding Spark tuning with auto-tuning; or, Magical spells to stop your pager going off:
+  blog_fmt_text: null
+  copresenters: ['@warre_n_peace', '@anyabida1']
+  date: 2018-09-13
+  description: null
+  discussion_link: null
+  event_link: null
+  event_name: Strata NY
+  event_type: null
+  last_post_text: null
+  location: New York, NY, USA
+  parsed: null
+  post_id: '2643174449969686347'
+  post_link: http://blog.holdenkarau.com/2018/09/understanding-spark-tuning-with-auto_12.html
+  repo_link: https://github.com/high-performance-spark/robin-sparkles
+  short_discussion_link: null
+  short_event_link: null
+  short_post_link: http://bit.ly/2CNcpUQ
+  short_repo_link: http://bit.ly/2x4huTq
+  short_slides_link: null
+  short_talk_link: https://oreil.ly/2LT6QU0
+  short_video_link: null
+  slides_link: https://www.slideshare.net/hkarau/spark-autotuning-talk-strata-new-york
+  start: 2018-09-13 11:20:00-04:00
+  synced_to_blog: null
+  tags: null
+  talk_description: "Apache Spark is an amazing distributed system, but part of the bargain we’ve made with the infrastructure deamons involves providing the correct set of magic numbers (aka tuning) or our jobs may be eaten by Cthulhu. Tuning Apache Spark is somewhat of a dark art, although thankfully, when it goes wrong all we tend to lose is several hours of our day and our employers money.
+
+Holden Karau, Rachel Warren, and Anya Bida explore auto-tuning jobs using both historical and live job information, using systems like Apache BEAM, Mahout, and internal Spark ML jobs as workloads. Much of the data required to effectively tune jobs is already collected inside of Spark. You just need to understand it. Holden, Rachel, and Anya outline sample auto-tuners and discuss the options for improving them and applying similar techniques in your own work. They also discuss what kind of tuning can be done statically (e.g., without depending on historic information) and look at Spark’s own built-in components for auto-tuning (currently dynamically scaling cluster size) and how you can improve them.
+
+Even if the idea of building an auto-tuner sounds as appealing as using a rusty spoon to debug the JVM on a haunted supercomputer, this talk will give you a better understanding of the knobs available to you to tune your Apache Spark jobs.
+
+Also, to be clear, Holden, Rachel, and Anya don’t promise to stop your pager going off at 2:00am, but hopefully this helps."
+  talk_link: https://conferences.oreilly.com/strata/strata-ny/public/schedule/detail/67936
+  title: Understanding Spark tuning with auto-tuning; or, Magical spells to stop your
+    pager going off
   video_link: null
