@@ -1,5 +1,453 @@
+'@pyconca:A Basic Introduction to PySpark Dataframes by exploring ASF Gender Diversity Data - workshop':
+  blog_fmt_text: null
+  codelab_link: null
+  copresenters: ['@math_foo']
+  date: 2018-11-10
+  description: null
+  discussion_link: null
+  event_link: https://2018.pycon.ca
+  event_name: '@pyconca'
+  event_type: null
+  last_post_text: Thanks for joining us (<a href='https://www.twitter.com/holdenkarau'>@holdenkarau</a>,<a
+    href='https://www.twitter.com/math_foo'>@math_foo</a>) on 2018-11-10 at @pyconca
+    2018 Toronto, ON, Canada for A Basic Introduction to PySpark Dataframes by exploring
+    ASF Gender Diversity Data - workshop.<p>You can find the code for this <a href="http://bit.ly/2BJJXT5">talk
+    at https://github.com/holdenk/diversity-analytics/</a>.The <a href="http://bit.ly/2RNhG1g">slides
+    are at http://bit.ly/2RNhG1g</a>.There is a <a href="http://bit.ly/2AWxgSm">related
+    video</a> you might want to check out.</p><iframe width="560" height="315" src="https://www.youtube.com/embed/lXrgN9-9jV8&t=12s"
+    frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>Comment
+    bellow to join in the discussion :).<a href="http://bit.ly/holdenTalkFeedback">Talk
+    feedback is appreciated at http://bit.ly/holdenTalkFeedback</a>
+  location: Toronto, ON, Canada
+  parsed: null
+  post_id: '7173708517474983024'
+  post_link: http://blog.holdenkarau.com/2018/11/a-basic-introduction-to-pyspark.html
+  related_links: null
+  related_video: https://www.youtube.com/watch?v=lXrgN9-9jV8&t=12s
+  repo_link: https://github.com/holdenk/diversity-analytics/
+  room: null
+  short_codelab_link: null
+  short_discussion_link: null
+  short_event_link: http://bit.ly/2DbiCIv
+  short_post_link: http://bit.ly/2RKdLCo
+  short_related_video: http://bit.ly/2AWxgSm
+  short_repo_link: http://bit.ly/2BJJXT5
+  short_slides_link: http://bit.ly/2RNhG1g
+  short_talk_link: null
+  short_video_link: null
+  slides_link: https://docs.google.com/presentation/d/1R4jDThFv7WY9IAWcEUUTxMygvqy75ce0GZqIFwSZlO0/edit?usp=sharing
+  start: 2018-11-10 10:30:00-05:00
+  synced_to_blog: null
+  tags: null
+  talk_description: null
+  talk_link: null
+  title: A Basic Introduction to PySpark Dataframes by exploring ASF Gender Diversity
+    Data - workshop
+  video_link: null
+'@pyconca:PyConCanada After Lunch Keynote Sunday': {blog_fmt_text: null, codelab_link: null,
+  copresenters: null, date: 2018-11-08, description: null, discussion_link: null,
+  event_link: 'https://2018.pycon.ca', event_name: '@pyconca', event_type: null, last_post_text: 'Thanks
+    for joining <a href=''http://www.twitter.com/holdenkarau''>me</a> on 2018-11-08  for
+    PyConCanada After Lunch Keynote Sunday.I''ll update this post with the slides
+    soon.Comment bellow to join in the discussion :).<a href="http://bit.ly/holdenTalkFeedback">Talk
+    feedback is appreciated at http://bit.ly/holdenTalkFeedback</a>', location: null,
+  parsed: null, post_id: '47319666813106862', post_link: 'http://blog.holdenkarau.com/2018/11/pyconcanada-after-lunch-keynote-sunday.html',
+  related_links: null, related_video: null, repo_link: null, room: null, short_codelab_link: null,
+  short_discussion_link: null, short_event_link: 'http://bit.ly/2DbiCIv', short_post_link: 'http://bit.ly/2PKCZDe',
+  short_related_video: null, short_repo_link: null, short_slides_link: null, short_talk_link: null,
+  short_video_link: null, slides_link: null, start: !!timestamp '2018-11-08 13:45:00-05:00',
+  synced_to_blog: null, tags: null, talk_description: null, talk_link: null, title: PyConCanada
+    After Lunch Keynote Sunday, video_link: null}
+'@sparkaisummit:Validating Big Data Jobs - Stopping Failures Before Production on Apache Spark':
+  blog_fmt_text: null
+  codelab_link: null
+  copresenters: null
+  date: 2018-10-03
+  description: "As big data jobs move from the proof-of-concept phase into powering\
+    \ real production services, we have to start consider what will happen when everything\
+    \ eventually goes wrong (such as recommending inappropriate products or other\
+    \ decisions taken on bad data). This talk will attempt to convince you that we\
+    \ will all eventually get aboard the failboat (especially with ~40% of respondents\
+    \ automatically deploying their Spark jobs results to production), and its important\
+    \ to automatically recognize when things have gone wrong so we can stop deployment\
+    \ before we have to update our resumes.\nFiguring out when things have gone terribly\
+    \ wrong is trickier than it first appears, since we want to catch the errors before\
+    \ our users notice them (or failing that before CNN notices them). We will explore\
+    \ general techniques for validation, look at responses from people validating\
+    \ big data jobs in production environments, and libraries that can assist us in\
+    \ writing relative validation rules based on historical data.\nFor folks working\
+    \ in streaming, we will talk about the unique challenges of attempting to validate\
+    \ in a real-time system, and what we can do besides keeping an up-to-date resume\
+    \ on file for when things go wrong. To keep the talk interesting real-world examples\
+    \ (with company names removed) will be presented, as well as several creative-common\
+    \ licensed cat pictures and an adorable panda GIF.\nIf you\u2019ve seen Holden\u2019\
+    s previous testing Spark talks this can be viewed as a deep dive on the second\
+    \ half focused around what else we need to do besides good testing practices to\
+    \ create production quality pipelines. If you haven\u2019t seen the testing talks\
+    \ watch those on YouTube after you come see this one"
+  discussion_link: null
+  event_link: null
+  event_name: '@sparkaisummit'
+  event_type: null
+  last_post_text: 'Thanks for joining <a href=''http://www.twitter.com/holdenkarau''>me</a>
+    on 2018-10-03 at @sparkaisummit 2018 London, UK for <a href="http://bit.ly/2xW13Zx">Validating
+    Big Data Jobs - Stopping Failures Before Production on Apache Spark</a>.<p>The
+    <a href="http://bit.ly/2QqQUea">slides are at http://bit.ly/2QqQUea</a>.</p><iframe
+    src="https://www.slideshare.net/slideshow/embed_code/key/7LL7UajVU6UWrP" width="427"
+    height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px
+    solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen>
+    </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/hkarau/validating-big-data-jobs-spark-ai-summit-eu"
+    title="Validating big data jobs - Spark AI Summit EU" target="_blank">Validating
+    big data jobs - Spark AI Summit EU</a> </strong> from <strong><a href="https://www.slideshare.net/hkarau"
+    target="_blank">Holden Karau</a></strong> </div>
+
+
+    Comment bellow to join in the discussion :).<a href="http://bit.ly/holdenTalkFeedback">Talk
+    feedback is appreciated at http://bit.ly/holdenTalkFeedback</a>'
+  location: London, UK
+  parsed: null
+  post_id: '246672982678203433'
+  post_link: http://blog.holdenkarau.com/2018/10/validating-big-data-jobs-stopping.html
+  related_links: null
+  related_video: null
+  repo_link: null
+  room: null
+  short_codelab_link: null
+  short_discussion_link: null
+  short_event_link: null
+  short_post_link: http://bit.ly/2QutAfT
+  short_related_video: null
+  short_repo_link: null
+  short_slides_link: http://bit.ly/2QqQUea
+  short_talk_link: http://bit.ly/2xW13Zx
+  short_video_link: null
+  slides_link: https://www.slideshare.net/hkarau/validating-big-data-jobs-spark-ai-summit-eu
+  start: 2018-10-03 14:00:00+01:00
+  synced_to_blog: null
+  tags: [SAISDD4]
+  talk_description: null
+  talk_link: https://databricks.com/session/validating-big-data-jobs-stopping-failures-before-production-on-apache-spark
+  title: Validating Big Data Jobs - Stopping Failures Before Production on Apache
+    Spark
+  video_link: null
+? '@strangeloop_stl:Validating Big Data Pipelines & ML (w Spark & Beam) - Inspecting
+  Functional Pipelines & Avoiding Awkward Recommendations'
+: {blog_fmt_text: null, codelab_link: null, copresenters: null, date: 2018-09-27,
+  description: null, discussion_link: null, event_link: 'https://www.thestrangeloop.com',
+  event_name: '@strangeloop_stl', event_type: null, last_post_text: 'Thanks for joining
+    <a href=''http://www.twitter.com/holdenkarau''>me</a> on 2018-09-27 at @strangeloop_stl
+    2018 St. Louis, MO, USA for <a href="http://bit.ly/2NgR8Yh">Validating Big Data
+    Pipelines & ML (w Spark & Beam) - Inspecting Functional Pipelines & Avoiding Awkward
+    Recommendations</a>.The talk covered: <p>Do you ever wonder if your data pipeline
+    is still producing the correct results? Has it ever not? Have you not tricked
+    anyone else into tacking over the pager for your system?
+
+    As big data jobs move from the proof-of-concept phase into powering real production
+    services, we have to start consider what will happen when everything eventually
+    goes wrong (such as recommending inappropriate products or other decisions taken
+    on bad data). This talk will attempt to convince you that we will all eventually
+    get aboard the failboat (especially with ~40% of respondents automatically deploying
+    their Spark jobs results to production), and its important to automatically recognize
+    when things have gone wrong so we can stop deployment before we have to update
+    our resumes.
+
+    Figuring out when things have gone terribly wrong is trickier than it first appears,
+    since we want to catch the errors before our users notice them (or failing that
+    before CNN notices them). We will explore general techniques for validation, look
+    at responses from people validating big data jobs in production environments,
+    and libraries that can assist us in writing relative validation rules based on
+    historical data.
+
+    Once we feel like we''ve almost got it all under our belt, we will shift focus
+    from traditional ETL pipelines to all of the wonderful special concerns that come
+    with producing ML models and how we can (try) and validate that things are getting
+    better (or at least not that much worse).</p>
+
+    .<p>The <a href="http://bit.ly/2Re7Icv">video of the talk is up at http://bit.ly/2Re7Icv</a>.</p><iframe
+    width="560" height="315" src="https://www.youtube.com/embed/j0Ua5JyEkrw" frameborder="0"
+    allow="autoplay; encrypted-media" allowfullscreen></iframe>Comment bellow to join
+    in the discussion :).<a href="http://bit.ly/holdenTalkFeedback">Talk feedback
+    is appreciated at http://bit.ly/holdenTalkFeedback</a>', location: 'St. Louis,
+    MO, USA', parsed: null, post_id: '5960493846529599897', post_link: 'http://blog.holdenkarau.com/2018/09/validating-big-data-pipelines-ml-w.html',
+  related_links: null, related_video: null, repo_link: null, room: null, short_codelab_link: null,
+  short_discussion_link: null, short_event_link: 'http://bit.ly/2MDWuYt', short_post_link: 'http://bit.ly/2NgfzoF',
+  short_related_video: null, short_repo_link: null, short_slides_link: null, short_talk_link: 'http://bit.ly/2NgR8Yh',
+  short_video_link: 'http://bit.ly/2Re7Icv', slides_link: null, start: !!timestamp '2018-09-27
+    15:30:00-05:00', synced_to_blog: null, tags: null, talk_description: 'Do you ever
+    wonder if your data pipeline is still producing the correct results? Has it ever
+    not? Have you not tricked anyone else into tacking over the pager for your system?
+
+    As big data jobs move from the proof-of-concept phase into powering real production
+    services, we have to start consider what will happen when everything eventually
+    goes wrong (such as recommending inappropriate products or other decisions taken
+    on bad data). This talk will attempt to convince you that we will all eventually
+    get aboard the failboat (especially with ~40% of respondents automatically deploying
+    their Spark jobs results to production), and its important to automatically recognize
+    when things have gone wrong so we can stop deployment before we have to update
+    our resumes.
+
+    Figuring out when things have gone terribly wrong is trickier than it first appears,
+    since we want to catch the errors before our users notice them (or failing that
+    before CNN notices them). We will explore general techniques for validation, look
+    at responses from people validating big data jobs in production environments,
+    and libraries that can assist us in writing relative validation rules based on
+    historical data.
+
+    Once we feel like we''ve almost got it all under our belt, we will shift focus
+    from traditional ETL pipelines to all of the wonderful special concerns that come
+    with producing ML models and how we can (try) and validate that things are getting
+    better (or at least not that much worse).', talk_link: 'https://www.thestrangeloop.com/2018/validating-big-data-pipelines-and-ml-w-spark-and-beam---inspecting-functional-pipelines-and-avoiding-awkward-recommendations.html',
+  title: Validating Big Data Pipelines & ML (w Spark & Beam) - Inspecting Functional
+    Pipelines & Avoiding Awkward Recommendations, video_link: 'https://www.youtube.com/watch?v=j0Ua5JyEkrw'}
+Big Data Spain:Big Data w/Python on Kubernetes (PySpark on K8s):
+  blog_fmt_text: null
+  codelab_link: null
+  copresenters: null
+  date: 2018-11-15
+  description: Big Data applications are increasingly being run on Kubernetes. Data
+    scientists commonly use python-based workflows, with tools like PySpark and Jupyter
+    for wrangling large amounts of data. The Kubernetes community over the past year
+    has been actively investing in tools and support for frameworks such as Apache
+    Spark, Jupyter and Apache Airflow. Attendees will learn how these tools can be
+    used together to build a scalable self-service platform for data science on Kubernetes
+    as well as the benefits that Kubernetes can provide over traditional options.
+  discussion_link: null
+  event_link: https://www.bigdataspain.org/2018/
+  event_name: Big Data Spain
+  event_type: null
+  last_post_text: 'Thanks for joining <a href=''http://www.twitter.com/holdenkarau''>me</a>
+    on 2018-11-15  for Big Data w/Python on Kubernetes (PySpark on K8s).<p>The <a
+    href="http://bit.ly/2RWsxpA">slides are at http://bit.ly/2RWsxpA</a>.The <a href="http://bit.ly/2R9x4bE">video
+    of the talk is up at http://bit.ly/2R9x4bE</a>.</p><iframe width="560" height="315"
+    src="https://www.youtube.com/embed/TDi9YFaw3ic" frameborder="0" allow="autoplay;
+    encrypted-media" allowfullscreen></iframe><iframe src="https://www.slideshare.net/slideshow/embed_code/key/FaOvUqcsvJcFBk"
+    width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+    style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width:
+    100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a
+    href="https://www.slideshare.net/hkarau/big-data-with-python-on-kubernetes-pyspark-on-k8s-big-data-spain-2018"
+    title="Big data with Python on kubernetes (pyspark on k8s) - Big Data Spain 2018"
+    target="_blank">Big data with Python on kubernetes (pyspark on k8s) - Big Data
+    Spain 2018</a> </strong> from <strong><a href="https://www.slideshare.net/hkarau"
+    target="_blank">Holden Karau</a></strong> </div>
+
+
+    And some related links: <a href="https://www.youtube.com/watch?v=jaIU2VCTv88&list=PLRLebp9QyZtZflexn4Yf9xsocrR_aSryx">recorded
+    demos</a>, <a href="https://www.youtube.com/watch?v=3j9D7B6PE60">setup livestream</a>Comment
+    bellow to join in the discussion :).<a href="http://bit.ly/holdenTalkFeedback">Talk
+    feedback is appreciated at http://bit.ly/holdenTalkFeedback</a>'
+  location: null
+  parsed: null
+  post_id: '3440074238001548439'
+  post_link: http://blog.holdenkarau.com/2018/11/big-data-wpython-on-kubernetes-pyspark.html
+  related_links:
+  - ['https://www.youtube.com/watch?v=jaIU2VCTv88&list=PLRLebp9QyZtZflexn4Yf9xsocrR_aSryx',
+    recorded demos]
+  - ['https://www.youtube.com/watch?v=3j9D7B6PE60', setup livestream]
+  related_video: null
+  repo_link: null
+  room: null
+  short_codelab_link: null
+  short_discussion_link: null
+  short_event_link: http://bit.ly/2OE8lH2
+  short_post_link: http://bit.ly/2RU0XcG
+  short_related_video: null
+  short_repo_link: null
+  short_slides_link: http://bit.ly/2RWsxpA
+  short_talk_link: null
+  short_video_link: http://bit.ly/2R9x4bE
+  slides_link: https://www.slideshare.net/hkarau/big-data-with-python-on-kubernetes-pyspark-on-k8s-big-data-spain-2018
+  start: 2018-11-15 16:10:00+01:00
+  synced_to_blog: null
+  tags: ['@bigdataspain']
+  talk_description: null
+  talk_link: null
+  title: Big Data w/Python on Kubernetes (PySpark on K8s)
+  video_link: https://www.youtube.com/watch?v=TDi9YFaw3ic
+Big Data Spain:Validating Big Data Jobs - Stopping Failures before Production (w/ Spark, BEAM, & friends!):
+  blog_fmt_text: null
+  codelab_link: null
+  copresenters: null
+  date: 2018-11-14
+  description: As big data jobs move from the proof-of-concept phase into powering
+    real production services, we have to start considering what will happen when everything
+    eventually goes wrong and how to mitigate the impact.
+  discussion_link: null
+  event_link: https://www.bigdataspain.org/2018/
+  event_name: Big Data Spain
+  event_type: null
+  last_post_text: 'Thanks for joining <a href=''http://www.twitter.com/holdenkarau''>me</a>
+    on 2018-11-14 at Big Data Spain 2018 Madrid, Spain for Validating Big Data Jobs
+    - Stopping Failures before Production (w/ Spark, BEAM, & friends!).<p>The <a href="http://bit.ly/2S1y3HJ">slides
+    are at http://bit.ly/2S1y3HJ</a>.The <a href="http://bit.ly/2Gxk23h">video of
+    the talk is up at http://bit.ly/2Gxk23h</a>.</p><iframe width="560" height="315"
+    src="https://www.youtube.com/embed/vW8DMLm2by4" frameborder="0" allow="autoplay;
+    encrypted-media" allowfullscreen></iframe><iframe src="https://www.slideshare.net/slideshow/embed_code/key/waR8PdjCYv8U4h"
+    width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+    style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width:
+    100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a
+    href="https://www.slideshare.net/hkarau/validating-big-data-pipelines-big-data-spain-2018"
+    title="Validating Big Data Pipelines - Big Data Spain 2018" target="_blank">Validating
+    Big Data Pipelines - Big Data Spain 2018</a> </strong> from <strong><a href="https://www.slideshare.net/hkarau"
+    target="_blank">Holden Karau</a></strong> </div>
+
+
+    Comment bellow to join in the discussion :).<a href="http://bit.ly/holdenTalkFeedback">Talk
+    feedback is appreciated at http://bit.ly/holdenTalkFeedback</a>'
+  location: Madrid, Spain
+  parsed: null
+  post_id: '1183206366899230299'
+  post_link: http://blog.holdenkarau.com/2018/11/validating-big-data-jobs-stopping.html
+  related_links: null
+  related_video: null
+  repo_link: null
+  room: null
+  short_codelab_link: null
+  short_discussion_link: null
+  short_event_link: http://bit.ly/2OE8lH2
+  short_post_link: http://bit.ly/2RQQqPi
+  short_related_video: null
+  short_repo_link: null
+  short_slides_link: http://bit.ly/2S1y3HJ
+  short_talk_link: null
+  short_video_link: http://bit.ly/2Gxk23h
+  slides_link: https://www.slideshare.net/hkarau/validating-big-data-pipelines-big-data-spain-2018
+  start: 2018-11-14 14:05:00+01:00
+  synced_to_blog: null
+  tags: ['@bigdataspain']
+  talk_description: null
+  talk_link: null
+  title: Validating Big Data Jobs - Stopping Failures before Production (w/ Spark,
+    BEAM, & friends!)
+  video_link: https://youtu.be/vW8DMLm2by4
+'Code Mania:Holden @ Kiwi Code Mania: talk title TBD': {blog_fmt_text: null, codelab_link: null,
+  copresenters: null, date: 2019-05-15, description: null, discussion_link: null,
+  event_link: 'https://codemania.io/', event_name: Code Mania, event_type: null, last_post_text: 'Come
+    join <a href=''http://www.twitter.com/holdenkarau''>me</a> on Wednesday 15. May
+    2019 at Code Mania 2019 Auckland, New Zealand for Holden @ Kiwi Code Mania: talk
+    title TBD.I''ll update this post with the slides soon.Come see to the talk or
+    comment bellow to join in the discussion :).<a href="http://bit.ly/holdenTalkFeedback">Talk
+    feedback is appreciated at http://bit.ly/holdenTalkFeedback</a>', location: 'Auckland,
+    New Zealand', parsed: null, post_id: '2121956766638078708', post_link: 'http://blog.holdenkarau.com/2018/12/holden-kiwi-code-mania-talk-title-tbd.html',
+  related_links: null, related_video: null, repo_link: null, room: null, short_codelab_link: null,
+  short_discussion_link: null, short_event_link: 'http://bit.ly/2SG1gs0', short_post_link: 'http://bit.ly/2zZK4qf',
+  short_related_video: null, short_repo_link: null, short_slides_link: null, short_talk_link: null,
+  short_video_link: null, slides_link: null, start: null, synced_to_blog: null, tags: null,
+  talk_description: null, talk_link: null, title: 'Holden @ Kiwi Code Mania: talk
+    title TBD', video_link: null}
+Data Day Texas:Understanding Spark Tuning with Auto Tuning (or how to stop your pager going off: {
+  blog_fmt_text: null, codelab_link: null, copresenters: null, date: 2019-01-26, description: null,
+  discussion_link: null, event_link: 'https://datadaytexas.com/2019/sessions', event_name: Data
+    Day Texas, event_type: null, last_post_text: 'Come join <a href=''http://www.twitter.com/holdenkarau''>me</a>
+    on Saturday 26. January 2019 at Data Day Texas 2019 Austin, TX, USA for Understanding
+    Spark Tuning with Auto Tuning (or how to stop your pager going off.I''ll update
+    this post with the slides soon.Come see to the talk or comment bellow to join
+    in the discussion :).<a href="http://bit.ly/holdenTalkFeedback">Talk feedback
+    is appreciated at http://bit.ly/holdenTalkFeedback</a>', location: 'Austin, TX,
+    USA', parsed: null, post_id: '5496910014092611319', post_link: 'http://blog.holdenkarau.com/2018/12/understanding-spark-tuning-with-auto.html',
+  related_links: null, related_video: null, repo_link: null, room: null, short_codelab_link: null,
+  short_discussion_link: null, short_event_link: 'http://bit.ly/2RnyXl0', short_post_link: 'http://bit.ly/2RnuTkJ',
+  short_related_video: null, short_repo_link: null, short_slides_link: null, short_talk_link: null,
+  short_video_link: null, slides_link: null, start: null, synced_to_blog: null, tags: null,
+  talk_description: null, talk_link: null, title: Understanding Spark Tuning with
+    Auto Tuning (or how to stop your pager going off, video_link: null}
+Festival de Software Libre:Dealing With Contributor Overload:
+  blog_fmt_text: null
+  codelab_link: null
+  copresenters: ['@griscz']
+  date: 2018-11-02
+  description: Details after!
+  discussion_link: null
+  event_link: null
+  event_name: Festival de Software Libre
+  event_type: null
+  last_post_text: Thanks for joining us (<a href='https://www.twitter.com/holdenkarau'>@holdenkarau</a>,<a
+    href='https://www.twitter.com/griscz'>@griscz</a>) on 2018-11-02 at Festival de
+    Software Libre 2018 Puerto Vallarta, Jalisco, Mexico for Dealing With Contributor
+    Overload.I'll update this post with the slides soon.Comment bellow to join in
+    the discussion :).<a href="http://bit.ly/holdenTalkFeedback">Talk feedback is
+    appreciated at http://bit.ly/holdenTalkFeedback</a>
+  location: Puerto Vallarta, Jalisco, Mexico
+  parsed: null
+  post_id: '5423289332532874832'
+  post_link: http://blog.holdenkarau.com/2018/11/dealing-with-contributor-overload.html
+  related_links: null
+  related_video: null
+  repo_link: null
+  room: null
+  short_codelab_link: null
+  short_discussion_link: null
+  short_event_link: null
+  short_post_link: http://bit.ly/2AH5vx1
+  short_related_video: null
+  short_repo_link: null
+  short_slides_link: null
+  short_talk_link: null
+  short_video_link: null
+  slides_link: null
+  start: 2018-11-02 18:00:00-06:00
+  synced_to_blog: null
+  tags: null
+  talk_description: null
+  talk_link: null
+  title: Dealing With Contributor Overload
+  video_link: null
+Festival de Software Libre:Diversity in OSS with Holden & Gris:
+  blog_fmt_text: null
+  codelab_link: null
+  copresenters: ['@griscz']
+  date: 2018-11-02
+  description: Exploring diversity in open source communities @ Festival del Software
+    Libre in Mexico. We looked at the ASF and general github data as well as discussed
+    a new program to encourage more people from Mexico to get more involved in open
+    source.
+  discussion_link: null
+  event_link: https://www.scylladb.com/scylla-summit-2018/
+  event_name: Festival de Software Libre
+  event_type: null
+  last_post_text: 'Thanks for joining us (<a href=''https://www.twitter.com/holdenkarau''>@holdenkarau</a>,<a
+    href=''https://www.twitter.com/griscz''>@griscz</a>) on 2018-11-02 at Festival
+    de Software Libre 2018 Puerto Vallarta, Jalisco, Mexico for Diversity in OSS with
+    Holden & Gris.<p>The <a href="http://bit.ly/2JBYgcw">slides are at http://bit.ly/2JBYgcw</a>.</p><iframe
+    src="https://www.slideshare.net/slideshow/embed_code/key/mvDP0GStL8fbC4" width="427"
+    height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px
+    solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen>
+    </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/hkarau/keynote-open-source-diversity-festival-del-software-libre"
+    title="Keynote Open Source Diversity - Festival del Software Libre" target="_blank">Keynote
+    Open Source Diversity - Festival del Software Libre</a> </strong> from <strong><a
+    href="https://www.slideshare.net/hkarau" target="_blank">Holden Karau</a></strong>
+    </div>
+
+
+    Comment bellow to join in the discussion :).<a href="http://bit.ly/holdenTalkFeedback">Talk
+    feedback is appreciated at http://bit.ly/holdenTalkFeedback</a>'
+  location: Puerto Vallarta, Jalisco, Mexico
+  parsed: null
+  post_id: '7389881431075989525'
+  post_link: http://blog.holdenkarau.com/2018/11/diversity-in-oss-with-holden-gris.html
+  related_links: null
+  related_video: null
+  repo_link: null
+  room: null
+  short_codelab_link: null
+  short_discussion_link: null
+  short_event_link: http://bit.ly/2A8t5CC
+  short_post_link: http://bit.ly/2JBIsXs
+  short_related_video: null
+  short_repo_link: null
+  short_slides_link: http://bit.ly/2JBYgcw
+  short_talk_link: null
+  short_video_link: null
+  slides_link: https://www.slideshare.net/hkarau/keynote-open-source-diversity-festival-del-software-libre
+  start: 2018-11-02 11:00:00-07:00
+  synced_to_blog: null
+  tags: null
+  talk_description: null
+  talk_link: null
+  title: Diversity in OSS with Holden & Gris
+  video_link: null
 'Jupytercon NY 2018:What things are correlated with gender diversity: A dig through the ASF and Jupyter projects':
   blog_fmt_text: null
+  codelab_link: null
   copresenters: [Matt Hunt]
   date: 2018-08-24
   description: null
@@ -7,13 +455,14 @@
   event_link: https://conferences.oreilly.com/jupyter/jup-ny/
   event_name: Jupytercon NY 2018
   event_type: null
-  last_post_text: 'Thanks for joining us on 2018-08-24 at Jupytercon NY 2018 New York
-    for <a href="https://oreil.ly/2N8NU8p">What things are correlated with gender
-    diversity: A dig through the ASF and Jupyter projects</a>.The talk covered: <p>Many
-    of us believe that gender diversity in open source projects is important (for
-    example, OReilly, Google, and the Python Software Foundation). (If you don''t,
-    this isn''t going to convince you.) But what things are correlated with improved
-    gender diversity, and what can we learn from similar historic industries?</p>
+  last_post_text: 'Thanks for joining us (<a href=''https://www.twitter.com/holdenkarau''>@holdenkarau</a>,Matt
+    Hunt) on 2018-08-24 at Jupytercon NY 2018 New York for <a href="https://oreil.ly/2N8NU8p">What
+    things are correlated with gender diversity: A dig through the ASF and Jupyter
+    projects</a>.The talk covered: <p>Many of us believe that gender diversity in
+    open source projects is important (for example, OReilly, Google, and the Python
+    Software Foundation). (If you don''t, this isn''t going to convince you.) But
+    what things are correlated with improved gender diversity, and what can we learn
+    from similar historic industries?</p>
 
 
     <p>Holden Karau and Matt Hunt explore the diversity of different projects, examine
@@ -42,22 +491,40 @@
     </ul>
 
     .<p>You can find the code for this <a href="http://bit.ly/2BJJXT5">talk at https://github.com/holdenk/diversity-analytics/</a>.The
-    <a href="http://bit.ly/2CcvsY7">slides are at http://bit.ly/2CcvsY7</a>.</p><a
-    href="http://bit.ly/2N8XlEO">Join in the discussion at http://bit.ly/2N8XlEO</a>
+    <a href="http://bit.ly/2CcvsY7">slides are at http://bit.ly/2CcvsY7</a>.The <a
+    href="http://bit.ly/2Oaw6q1">video of the talk is up at http://bit.ly/2Oaw6q1</a>.</p><iframe
+    width="560" height="315" src="https://www.youtube.com/embed/zWQtGqNVUv4" frameborder="0"
+    allow="autoplay; encrypted-media" allowfullscreen></iframe><iframe src="https://www.slideshare.net/slideshow/embed_code/key/pBv827xkGGeIkM"
+    width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+    style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width:
+    100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a
+    href="https://www.slideshare.net/hkarau/jupyter-con-2018-diversity-analytics-oss-adventures"
+    title="Jupyter con 2018 Diversity Analytics &amp; OSS Adventures" target="_blank">Jupyter
+    con 2018 Diversity Analytics &amp; OSS Adventures</a> </strong> from <strong><a
+    href="https://www.slideshare.net/hkarau" target="_blank">Holden Karau</a></strong>
+    </div>
+
+
+    <a href="http://bit.ly/2N8XlEO">Join in the discussion at http://bit.ly/2N8XlEO</a>
     :).<a href="http://bit.ly/holdenTalkFeedback">Talk feedback is appreciated at
     http://bit.ly/holdenTalkFeedback</a>'
   location: New York
   parsed: null
   post_id: '6062499990292128079'
   post_link: http://blog.holdenkarau.com/2018/09/what-things-are-correlated-with-gender_8.html
+  related_links: null
+  related_video: null
   repo_link: https://github.com/holdenk/diversity-analytics/
+  room: null
+  short_codelab_link: null
   short_discussion_link: http://bit.ly/2N8XlEO
   short_event_link: https://oreil.ly/2MKzVGA
   short_post_link: http://bit.ly/2CAMTSA
+  short_related_video: null
   short_repo_link: http://bit.ly/2BJJXT5
   short_slides_link: http://bit.ly/2CcvsY7
   short_talk_link: https://oreil.ly/2N8NU8p
-  short_video_link: null
+  short_video_link: http://bit.ly/2Oaw6q1
   slides_link: https://www.slideshare.net/hkarau/jupyter-con-2018-diversity-analytics-oss-adventures
   start: null
   synced_to_blog: null
@@ -91,9 +558,67 @@
   talk_link: https://conferences.oreilly.com/jupyter/jup-ny/public/schedule/detail/68520
   title: 'What things are correlated with gender diversity: A dig through the ASF
     and Jupyter projects'
+  video_link: https://www.youtube.com/watch?v=zWQtGqNVUv4
+Lambda World Seattle:Bringing the Jewels of the Python world (including Spacy) to Scala with Spark:
+  blog_fmt_text: null
+  codelab_link: null
+  copresenters: null
+  date: 2018-09-18
+  description: null
+  discussion_link: null
+  event_link: http://seattle.lambda.world
+  event_name: Lambda World Seattle
+  event_type: null
+  last_post_text: 'Thanks for joining <a href=''http://www.twitter.com/holdenkarau''>me</a>
+    on 2018-09-18 at Lambda World Seattle 2018 Seattle, WA, USA for Bringing the Jewels
+    of the Python world (including Spacy) to Scala with Spark.The talk covered: <p>With
+    the new Apache Arrow integration in PySpark 2.3, it is now starting become reasonable
+    to look to the Python world and ask what else do we want to steal besides tensorflow,
+    or as a Python developer look and say how can I get my code into production without
+    it being rewritten into a mess of Java?. Regardless of your specific side(s) in
+    the JVM/Python divide, collaboration is getting a lot faster, so lets learn how
+    to share! In this brief talk we will examine sharing some of the wonders of Spacy
+    with the JVM world, which still has a somewhat lackluster set of options for NLP
+    &amp; deep learning.</p>
+
+    .I''ll update this post with the slides soon.Comment bellow to join in the discussion
+    :).<a href="http://bit.ly/holdenTalkFeedback">Talk feedback is appreciated at
+    http://bit.ly/holdenTalkFeedback</a>'
+  location: Seattle, WA, USA
+  parsed: null
+  post_id: '6859077822393344936'
+  post_link: http://blog.holdenkarau.com/2018/09/bringing-jewels-of-python-world.html
+  related_links: null
+  related_video: null
+  repo_link: null
+  room: null
+  short_codelab_link: null
+  short_discussion_link: null
+  short_event_link: http://bit.ly/2MxLeN7
+  short_post_link: http://bit.ly/2MBcuKD
+  short_related_video: null
+  short_repo_link: null
+  short_slides_link: null
+  short_talk_link: null
+  short_video_link: null
+  slides_link: null
+  start: 2018-09-18 10:15:00-07:00
+  synced_to_blog: null
+  tags: ['@Lambda_World', '@ApacheSpark', '@spacy_io']
+  talk_description: With the new Apache Arrow integration in PySpark 2.3, it is now
+    starting become reasonable to look to the Python world and ask what else do we
+    want to steal besides tensorflow, or as a Python developer look and say how can
+    I get my code into production without it being rewritten into a mess of Java?.
+    Regardless of your specific side(s) in the JVM/Python divide, collaboration is
+    getting a lot faster, so lets learn how to share! In this brief talk we will examine
+    sharing some of the wonders of Spacy with the JVM world, which still has a somewhat
+    lackluster set of options for NLP & deep learning.
+  talk_link: null
+  title: Bringing the Jewels of the Python world (including Spacy) to Scala with Spark
   video_link: null
 'Open Source Summit:Introducing KubeFlow: A System for Deploying ML/AI on Kubernetes ':
   blog_fmt_text: null
+  codelab_link: null
   copresenters: ['@rawkintrevo']
   date: 2018-08-30
   description: null
@@ -101,19 +626,25 @@
   event_link: null
   event_name: Open Source Summit
   event_type: talk
-  last_post_text: 'Thanks for joining us on 2018-08-30 at Open Source Summit 2018
-    Vancouver, BC, Canada for <a href="http://bit.ly/2Ltt8LR">Introducing KubeFlow:
-    A System for Deploying ML/AI on Kubernetes </a>.I''ll update this post with the
-    slides soon.Comment bellow to join in the discussion :).<a href="http://bit.ly/holdenTalkFeedback">Talk
+  last_post_text: 'Thanks for joining us (<a href=''https://www.twitter.com/holdenkarau''>@holdenkarau</a>,<a
+    href=''https://www.twitter.com/rawkintrevo''>@rawkintrevo</a>) on 2018-08-30 at
+    Open Source Summit 2018 Vancouver, BC, Canada for <a href="http://bit.ly/2Ltt8LR">Introducing
+    KubeFlow: A System for Deploying ML/AI on Kubernetes </a>.I''ll update this post
+    with the slides soon.Comment bellow to join in the discussion :).<a href="http://bit.ly/holdenTalkFeedback">Talk
     feedback is appreciated at http://bit.ly/holdenTalkFeedback</a>'
   location: Vancouver, BC, Canada
   parsed: null
   post_id: '7102108156810641565'
   post_link: http://blog.holdenkarau.com/2018/09/introducing-kubeflow-system-for_8.html
+  related_links: null
+  related_video: null
   repo_link: null
+  room: null
+  short_codelab_link: null
   short_discussion_link: null
   short_event_link: null
   short_post_link: http://bit.ly/2QgsqF9
+  short_related_video: null
   short_repo_link: null
   short_slides_link: null
   short_talk_link: http://bit.ly/2Ltt8LR
@@ -126,8 +657,332 @@
   talk_link: https://ossna18.sched.com/event/FAOJ/introducing-kubeflow-a-system-for-deploying-mlai-on-kubernetes-trevor-grant-ibm-holden-karau-google
   title: 'Introducing KubeFlow: A System for Deploying ML/AI on Kubernetes '
   video_link: null
+'Reversim Summit 2018:The magic of distributed systems: when it all breaks and why':
+  blog_fmt_text: null
+  codelab_link: null
+  copresenters: null
+  date: 2018-10-09
+  description: 'Distributed systems can seem magical, and sometimes all of the magic
+    works and our job succeeds. However, if you''ve worked with them for a long enough
+    time you''ve found a few places where the magic starts to break down and the fact
+    that it''s actually a collection of several hundred garden gnomes* rather than
+    a single large garden gnome.
+
+    This talk will use Apache Spark, Beam, Flink, Kafka, and Map Reduce to explore
+    the world of data parallel distributed systems. We''ll start with some happy pieces
+    of magic, like how we can combine different transformations into a single pass
+    over the data, working between different languages, data partitioning, and lambda
+    serialization. After each new piece of magic is introduced we''ll look at how
+    it breaks in one (or two) of the systems.
+
+    Come to be told it''s not your fault everything is broken, or if your distributed
+    software still works an exciting preview of everything that''s going to go wrong.
+    Don''t work with distributed systems? Come to be reassured you''ve made good life
+    choices.'
+  discussion_link: null
+  event_link: https://summit2018.reversim.com
+  event_name: Reversim Summit 2018
+  event_type: null
+  last_post_text: 'Thanks for joining <a href=''http://www.twitter.com/holdenkarau''>me</a>
+    on 2018-10-09  for <a href="http://bit.ly/2E4JKuN">The magic of distributed systems:
+    when it all breaks and why</a>.<p>The <a href="http://bit.ly/2A8HfDI">slides are
+    at http://bit.ly/2A8HfDI</a>.</p><iframe src="https://www.slideshare.net/slideshow/embed_code/key/b58RlpWd9bNtPQ"
+    width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+    style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width:
+    100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a
+    href="https://www.slideshare.net/hkarau/the-magic-of-data-parallel-distributed-systems-and-where-it-all-breaks-reversim"
+    title="The magic of (data parallel) distributed systems and where it all breaks
+    - Reversim" target="_blank">The magic of (data parallel) distributed systems and
+    where it all breaks - Reversim</a> </strong> from <strong><a href="https://www.slideshare.net/hkarau"
+    target="_blank">Holden Karau</a></strong> </div>
+
+
+    Comment bellow to join in the discussion :).<a href="http://bit.ly/holdenTalkFeedback">Talk
+    feedback is appreciated at http://bit.ly/holdenTalkFeedback</a>'
+  location: null
+  parsed: null
+  post_id: '1490298739204250857'
+  post_link: http://blog.holdenkarau.com/2018/10/the-magic-of-distributed-systems-when.html
+  related_links: null
+  related_video: null
+  repo_link: null
+  room: null
+  short_codelab_link: null
+  short_discussion_link: null
+  short_event_link: http://bit.ly/2ONzATu
+  short_post_link: http://bit.ly/2E5qFsC
+  short_related_video: null
+  short_repo_link: null
+  short_slides_link: http://bit.ly/2A8HfDI
+  short_talk_link: http://bit.ly/2E4JKuN
+  short_video_link: null
+  slides_link: https://www.slideshare.net/hkarau/the-magic-of-data-parallel-distributed-systems-and-where-it-all-breaks-reversim
+  start: 2018-10-09 10:00:00+03:00
+  synced_to_blog: null
+  tags: ['@reversim']
+  talk_description: null
+  talk_link: https://summit2018.reversim.com/speaker/5b60af7eb5c7a00014aaff91
+  title: 'The magic of distributed systems: when it all breaks and why'
+  video_link: null
+? Scala eXchange 2018:Validating Big Data Jobs - Stopping Failures before Production
+  (w/ Spark, BEAM, & friends!) -- now with Scooters
+: {blog_fmt_text: null, codelab_link: null, copresenters: null, date: 2018-12-14,
+  description: ' As big data jobs move from the proof-of-concept phase into powering
+    real production services, you will need to consider what will happen when everything
+    eventually goes wrong (such as recommending inappropriate products or other decisions
+    taken on bad data).
+
+    During this talk, you will discover that you will eventually get aboard the failboat
+    (especially with ~40% of respondents automatically deploying their Spark jobs
+    results to production). It''s important to automatically recognise when things
+    have gone wrong, so you can stop deployment before you have to update our resumes.
+
+    Figuring out when things have gone terribly wrong is trickier than it first appears,
+    since you want to catch the errors before your users notice them (or failing that
+    before CNN notices them). We will explore general techniques for validation, look
+    at responses from people validating big data jobs in production environments,
+    and libraries that can assist you in writing relative validation rules based on
+    historical data. For folks working in streaming, you will learn about the unique
+    challenges of attempting to validate in a real-time system, and what you can do
+    besides keeping an up-to-date resume on file for when things go wrong.
+
+    You will discover code examples in Apache Spark, as well as learn about similar
+    concepts in Apache BEAM (a cross platform tool), but the techniques should be
+    applicable across systems.
+
+    Real-world examples (with company names removed) will be presented, as well as
+    several creative-common licensed cat pictures and an adorable panda GIF.', discussion_link: null,
+  event_link: 'https://skillsmatter.com/conferences/10488-scala-exchange-2018', event_name: Scala
+    eXchange 2018, event_type: null, last_post_text: 'Thanks for joining <a href=''http://www.twitter.com/holdenkarau''>me</a>
+    on 2018-12-14 at Scala eXchange 2018 London, UK for Validating Big Data Jobs -
+    Stopping Failures before Production (w/ Spark, BEAM, & friends!) -- now with Scooters.I''ll
+    update this post with the slides soon.Comment bellow to join in the discussion
+    :).<a href="http://bit.ly/holdenTalkFeedback">Talk feedback is appreciated at
+    http://bit.ly/holdenTalkFeedback</a>', location: 'London, UK', parsed: null, post_id: '6722465399501163622',
+  post_link: 'http://blog.holdenkarau.com/2018/12/validating-big-data-jobs-stopping.html',
+  related_links: null, related_video: null, repo_link: null, room: null, short_codelab_link: null,
+  short_discussion_link: null, short_event_link: 'http://bit.ly/2QVXopi', short_post_link: 'http://bit.ly/2QRVw0S',
+  short_related_video: null, short_repo_link: null, short_slides_link: null, short_talk_link: null,
+  short_video_link: null, slides_link: null, start: !!timestamp '2018-12-14 16:00:00+00:00',
+  synced_to_blog: null, tags: null, talk_description: null, talk_link: null, title: 'Validating
+    Big Data Jobs - Stopping Failures before Production (w/ Spark, BEAM, & friends!)
+    -- now with Scooters', video_link: null}
+Scylla Summit 2018:Building Recoverable (and optionally Async) Spark Pipelines: {
+  blog_fmt_text: null, codelab_link: null, copresenters: null, date: 2018-11-07, description: "Have\
+    \ you ever had a Spark job fail in it\u2019s second to last stage after a \"trivial\"\
+    \ update or been part of the way through debugging a pipeline to wish you could\
+    \ look at it\u2019s data or had an \"exploratory\" notebook turn into something\
+    \ less exploratory? Come join me for a surprisingly simple adventure into how\
+    \ to build recoverable pipelines and have more debuggable pipelines. Then join\
+    \ me on the adventure where in we find out our \"simple\" solution has a bunch\
+    \ of hidden flaws, how to work around them, and end on the reminder of how important\
+    \ it is to test your code.", discussion_link: null, event_link: 'https://www.scylladb.com/scylla-summit-2018/',
+  event_name: Scylla Summit 2018, event_type: null, last_post_text: 'Thanks for joining
+    <a href=''http://www.twitter.com/holdenkarau''>me</a> on 2018-11-07  for <a href="https://sched.co/HeLq">Building
+    Recoverable (and optionally Async) Spark Pipelines</a>.<p>The <a href="http://bit.ly/2D90dfy">slides
+    are at http://bit.ly/2D90dfy</a>.</p><iframe src="https://www.slideshare.net/slideshow/embed_code/key/iTJRYRJd8Ejt1E"
+    width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+    style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width:
+    100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a
+    href="https://www.slideshare.net/hkarau/building-recoverable-and-optionally-async-pipelines-with-apache-spark-small-revisions"
+    title="Building Recoverable (and optionally async) Pipelines with Apache Spark
+    (+ small revisions)" target="_blank">Building Recoverable (and optionally async)
+    Pipelines with Apache Spark (+ small revisions)</a> </strong> from <strong><a
+    href="https://www.slideshare.net/hkarau" target="_blank">Holden Karau</a></strong>
+    </div>
+
+
+    Comment bellow to join in the discussion :).<a href="http://bit.ly/holdenTalkFeedback">Talk
+    feedback is appreciated at http://bit.ly/holdenTalkFeedback</a>', location: null,
+  parsed: null, post_id: '1253662567781382525', post_link: 'http://blog.holdenkarau.com/2018/10/building-recoverable-and-optionally.html',
+  related_links: null, related_video: null, repo_link: null, room: null, short_codelab_link: null,
+  short_discussion_link: null, short_event_link: 'http://bit.ly/2A8t5CC', short_post_link: 'http://bit.ly/2QMUaRc',
+  short_related_video: null, short_repo_link: null, short_slides_link: 'http://bit.ly/2D90dfy',
+  short_talk_link: 'https://sched.co/HeLq', short_video_link: null, slides_link: 'https://www.slideshare.net/hkarau/building-recoverable-and-optionally-async-pipelines-with-apache-spark-small-revisions',
+  start: !!timestamp '2018-11-07 11:20:00-08:00', synced_to_blog: null, tags: null,
+  talk_description: null, talk_link: 'https://sched.co/HeLq', title: Building Recoverable
+    (and optionally Async) Spark Pipelines, video_link: null}
+Spark Summit EU 2018:Using Spark ML on Spark Errors - What Do the Clusters Tell Us?:
+  blog_fmt_text: null
+  codelab_link: null
+  copresenters: null
+  date: 2018-10-04
+  description: null
+  discussion_link: null
+  event_link: null
+  event_name: Spark Summit EU 2018
+  event_type: null
+  last_post_text: 'Thanks for joining <a href=''http://www.twitter.com/holdenkarau''>me</a>
+    on 2018-10-04  for <a href="http://bit.ly/2xV7H2e">Using Spark ML on Spark Errors
+    - What Do the Clusters Tell Us?</a>.The talk covered: <p>If youre subscribed to
+    user@spark.apache.org, or work in a large company, you may see some common Spark
+    error messages. Even attending Spark Summit over the past few years you have seen
+    talks like the "Top K Mistakes in Spark." While cool non-machine learning based
+    tools do exist to examine Sparks logs  they dont use machine learning and therefore
+    are not as cool but also limited in by the amount of effort humans can put into
+    writing rules for them. This talk will look what happens when we train "regular"
+    clustering models on stack traces, and explore DL models for classifying user
+    message to the Spark list. Come for the reassurance that the robots are not yet
+    able to fix themselves, and stay to learn how to work better with the help of
+    our robot friends. The tl;dr of this talk is Spark ML on Spark output, plus a
+    little bit of Tensorflow is fun for the whole family, but probably shouldnt automatically
+    respond to user list posts just yet.
+
+    Session hashtag: #SAISML10</p>
+
+    .<p>The <a href="http://bit.ly/2NoIFxr">slides are at http://bit.ly/2NoIFxr</a>.</p><iframe
+    src="https://www.slideshare.net/slideshow/embed_code/key/haLz2T25nnr4zM" width="427"
+    height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px
+    solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen>
+    </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/hkarau/using-spark-ml-on-spark-errors-what-do-the-clusters-tell-us"
+    title="Using Spark ML on Spark Errors - What do the clusters tell us?" target="_blank">Using
+    Spark ML on Spark Errors - What do the clusters tell us?</a> </strong> from <strong><a
+    href="https://www.slideshare.net/hkarau" target="_blank">Holden Karau</a></strong>
+    </div>
+
+
+    Comment bellow to join in the discussion :).<a href="http://bit.ly/holdenTalkFeedback">Talk
+    feedback is appreciated at http://bit.ly/holdenTalkFeedback</a>'
+  location: null
+  parsed: null
+  post_id: '4555987989232768798'
+  post_link: http://blog.holdenkarau.com/2018/10/using-spark-ml-on-spark-errors-what-do.html
+  related_links: null
+  related_video: null
+  repo_link: null
+  room: null
+  short_codelab_link: null
+  short_discussion_link: null
+  short_event_link: null
+  short_post_link: http://bit.ly/2QoZuKz
+  short_related_video: null
+  short_repo_link: null
+  short_slides_link: http://bit.ly/2NoIFxr
+  short_talk_link: http://bit.ly/2xV7H2e
+  short_video_link: null
+  slides_link: https://www.slideshare.net/hkarau/using-spark-ml-on-spark-errors-what-do-the-clusters-tell-us
+  start: 2018-10-04 16:20:00+01:00
+  synced_to_blog: null
+  tags: ['#SAISML10', '#birthday']
+  talk_description: 'If youre subscribed to user@spark.apache.org, or work in a large
+    company, you may see some common Spark error messages. Even attending Spark Summit
+    over the past few years you have seen talks like the "Top K Mistakes in Spark."
+    While cool non-machine learning based tools do exist to examine Sparks logs  they
+    dont use machine learning and therefore are not as cool but also limited in by
+    the amount of effort humans can put into writing rules for them. This talk will
+    look what happens when we train "regular" clustering models on stack traces, and
+    explore DL models for classifying user message to the Spark list. Come for the
+    reassurance that the robots are not yet able to fix themselves, and stay to learn
+    how to work better with the help of our robot friends. The tl;dr of this talk
+    is Spark ML on Spark output, plus a little bit of Tensorflow is fun for the whole
+    family, but probably shouldnt automatically respond to user list posts just yet.
+
+    Session hashtag: #SAISML10'
+  talk_link: https://databricks.com/session/using-spark-ml-on-spark-errors-what-do-the-clusters-tell-us
+  title: Using Spark ML on Spark Errors - What Do the Clusters Tell Us?
+  video_link: null
+Strata EU 2018:Understanding Spark tuning with auto-tuning; or, Magical spells to stop your pager going off at 2:00am:
+  blog_fmt_text: null
+  codelab_link: null
+  copresenters: ['@warre_n_peace']
+  date: 2018-05-23
+  description: null
+  discussion_link: null
+  event_link: https://conferences.oreilly.com/strata/strata-eu-2018
+  event_name: Strata EU 2018
+  event_type: null
+  last_post_text: 'Thanks for joining us (<a href=''https://www.twitter.com/holdenkarau''>@holdenkarau</a>,<a
+    href=''https://www.twitter.com/warre_n_peace''>@warre_n_peace</a>) on 2018-05-23
+    at Strata EU 2018 London, UK for <a href="https://oreil.ly/2NhIVmG">Understanding
+    Spark tuning with auto-tuning; or, Magical spells to stop your pager going off
+    at 2:00am</a>.The talk covered: <p>Apache Spark is an amazing distributed system,
+    but part of the bargain weve made with the infrastructure deamons involves providing
+    the correct set of magic numbers (aka tuning) or our jobs may be eaten by Cthulhu.
+    Tuning Apache Spark is somewhat of a dark art, although thankfully, when it goes
+    wrong, all we tend to lose is several hours of our day and our employers money.
+
+    Holden Karau, Rachel Warren, and Anya Bida explore auto-tuning jobs using both
+    historical and live job information, using systems like Apache BEAM, Mahout, and
+    internal Spark ML jobs as workloads. Much of the data required to effectively
+    tune jobs is already collected inside of Spark. You just need to understand it.
+    Holden, Rachel, and Anya outline sample auto-tuners and discuss the options for
+    improving them and applying similar techniques in your own work. They also discuss
+    what kind of tuning can be done statically (e.g., without depending on historic
+    information) and look at Sparks own built-in components for auto-tuning (currently
+    dynamically scaling cluster size) and how you can improve them.
+
+    Even if the idea of building an auto-tuner sounds as appealing as using a rusty
+    spoon to debug the JVM on a haunted supercomputer, this talk will give you a better
+    understanding of the knobs available to you to tune your Apache Spark jobs.
+
+    Also, to be clear, Holden, and Rachel dont promise to stop your pager going off
+    at 2:00am, but hopefully this helps.</p>
+
+    .<p>The <a href="http://bit.ly/2MJbx2Y">slides are at http://bit.ly/2MJbx2Y</a>.The
+    <a href="http://bit.ly/2NjJCvO">video of the talk is up at http://bit.ly/2NjJCvO</a>.</p><iframe
+    width="560" height="315" src="https://www.youtube.com/embed/jVBKCBye5PM" frameborder="0"
+    allow="autoplay; encrypted-media" allowfullscreen></iframe><iframe src="https://www.slideshare.net/slideshow/embed_code/key/hUIw5eJTTz8C5"
+    width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+    style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width:
+    100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a
+    href="https://www.slideshare.net/hkarau/spark-autotuning-strata-eu-2018" title="Spark
+    Autotuning - Strata EU 2018" target="_blank">Spark Autotuning - Strata EU 2018</a>
+    </strong> from <strong><a href="https://www.slideshare.net/hkarau" target="_blank">Holden
+    Karau</a></strong> </div>
+
+
+    Comment bellow to join in the discussion :).<a href="http://bit.ly/holdenTalkFeedback">Talk
+    feedback is appreciated at http://bit.ly/holdenTalkFeedback</a>'
+  location: London, UK
+  parsed: null
+  post_id: '7871184887370735274'
+  post_link: http://blog.holdenkarau.com/2018/09/understanding-spark-tuning-with-auto.html
+  related_links: null
+  related_video: null
+  repo_link: null
+  room: null
+  short_codelab_link: null
+  short_discussion_link: null
+  short_event_link: https://oreil.ly/2MHLF7I
+  short_post_link: http://bit.ly/2NjCGP7
+  short_related_video: null
+  short_repo_link: null
+  short_slides_link: http://bit.ly/2MJbx2Y
+  short_talk_link: https://oreil.ly/2NhIVmG
+  short_video_link: http://bit.ly/2NjJCvO
+  slides_link: https://www.slideshare.net/hkarau/spark-autotuning-strata-eu-2018
+  start: null
+  synced_to_blog: null
+  tags: null
+  talk_description: 'Apache Spark is an amazing distributed system, but part of the
+    bargain weve made with the infrastructure deamons involves providing the correct
+    set of magic numbers (aka tuning) or our jobs may be eaten by Cthulhu. Tuning
+    Apache Spark is somewhat of a dark art, although thankfully, when it goes wrong,
+    all we tend to lose is several hours of our day and our employers money.
+
+    Holden Karau, Rachel Warren, and Anya Bida explore auto-tuning jobs using both
+    historical and live job information, using systems like Apache BEAM, Mahout, and
+    internal Spark ML jobs as workloads. Much of the data required to effectively
+    tune jobs is already collected inside of Spark. You just need to understand it.
+    Holden, Rachel, and Anya outline sample auto-tuners and discuss the options for
+    improving them and applying similar techniques in your own work. They also discuss
+    what kind of tuning can be done statically (e.g., without depending on historic
+    information) and look at Sparks own built-in components for auto-tuning (currently
+    dynamically scaling cluster size) and how you can improve them.
+
+    Even if the idea of building an auto-tuner sounds as appealing as using a rusty
+    spoon to debug the JVM on a haunted supercomputer, this talk will give you a better
+    understanding of the knobs available to you to tune your Apache Spark jobs.
+
+    Also, to be clear, Holden, and Rachel dont promise to stop your pager going off
+    at 2:00am, but hopefully this helps.'
+  talk_link: https://conferences.oreilly.com/strata/strata-eu-2018/public/schedule/detail/64759
+  title: Understanding Spark tuning with auto-tuning; or, Magical spells to stop your
+    pager going off at 2:00am
+  video_link: https://www.youtube.com/watch?v=jVBKCBye5PM
 Strata NY:High Performance Spark Book Signing:
   blog_fmt_text: null
+  codelab_link: null
   copresenters: ['@warre_n_peace']
   date: 2018-09-13
   description: null
@@ -135,18 +990,24 @@ Strata NY:High Performance Spark Book Signing:
   event_link: null
   event_name: Strata NY
   event_type: signing
-  last_post_text: Come join us on 2018-09-13 at Strata NY 2018 New York, NY, USA for
-    High Performance Spark Book Signing.Come see to the signing or comment bellow
-    to join in the discussion :).<a href="http://bit.ly/holdenTalkFeedback">Talk feedback
-    is appreciated at http://bit.ly/holdenTalkFeedback</a>
+  last_post_text: Thanks for joining us (<a href='https://www.twitter.com/holdenkarau'>@holdenkarau</a>,<a
+    href='https://www.twitter.com/warre_n_peace'>@warre_n_peace</a>) on 2018-09-13
+    at Strata NY 2018 New York, NY, USA for High Performance Spark Book Signing.Comment
+    bellow to join in the discussion :).<a href="http://bit.ly/holdenTalkFeedback">Talk
+    feedback is appreciated at http://bit.ly/holdenTalkFeedback</a>
   location: New York, NY, USA
   parsed: null
   post_id: '3307160329760644496'
   post_link: http://blog.holdenkarau.com/2018/09/high-performance-spark-book-signing_0.html
+  related_links: null
+  related_video: null
   repo_link: null
+  room: null
+  short_codelab_link: null
   short_discussion_link: null
   short_event_link: null
   short_post_link: http://bit.ly/2oZE230
+  short_related_video: null
   short_repo_link: null
   short_slides_link: null
   short_talk_link: null
@@ -161,6 +1022,7 @@ Strata NY:High Performance Spark Book Signing:
   video_link: null
 Strata NY:Understanding Spark tuning with auto-tuning; or, Magical spells to stop your pager going off:
   blog_fmt_text: null
+  codelab_link: null
   copresenters: ['@warre_n_peace', '@anyabida1']
   date: 2018-09-13
   description: null
@@ -168,31 +1030,153 @@ Strata NY:Understanding Spark tuning with auto-tuning; or, Magical spells to sto
   event_link: null
   event_name: Strata NY
   event_type: null
-  last_post_text: null
+  last_post_text: 'Thanks for joining us (<a href=''https://www.twitter.com/holdenkarau''>@holdenkarau</a>,<a
+    href=''https://www.twitter.com/warre_n_peace''>@warre_n_peace</a>,<a href=''https://www.twitter.com/anyabida1''>@anyabida1</a>)
+    on 2018-09-13 at Strata NY 2018 New York, NY, USA for <a href="https://oreil.ly/2LT6QU0">Understanding
+    Spark tuning with auto-tuning; or, Magical spells to stop your pager going off</a>.The
+    talk covered: <p>Apache Spark is an amazing distributed system, but part of the
+    bargain weve made with the infrastructure deamons involves providing the correct
+    set of magic numbers (aka tuning) or our jobs may be eaten by Cthulhu. Tuning
+    Apache Spark is somewhat of a dark art, although thankfully, when it goes wrong
+    all we tend to lose is several hours of our day and our employers money.
+
+    Holden Karau, Rachel Warren, and Anya Bida explore auto-tuning jobs using both
+    historical and live job information, using systems like Apache BEAM, Mahout, and
+    internal Spark ML jobs as workloads. Much of the data required to effectively
+    tune jobs is already collected inside of Spark. You just need to understand it.
+    Holden, Rachel, and Anya outline sample auto-tuners and discuss the options for
+    improving them and applying similar techniques in your own work. They also discuss
+    what kind of tuning can be done statically (e.g., without depending on historic
+    information) and look at Sparks own built-in components for auto-tuning (currently
+    dynamically scaling cluster size) and how you can improve them.
+
+    Even if the idea of building an auto-tuner sounds as appealing as using a rusty
+    spoon to debug the JVM on a haunted supercomputer, this talk will give you a better
+    understanding of the knobs available to you to tune your Apache Spark jobs.
+
+    Also, to be clear, Holden, Rachel, and Anya dont promise to stop your pager going
+    off at 2:00am, but hopefully this helps.</p>
+
+    .<p>You can find the code for this <a href="http://bit.ly/2x4huTq">talk at https://github.com/high-performance-spark/robin-sparkles</a>.The
+    <a href="http://bit.ly/2D8pU1B">slides are at http://bit.ly/2D8pU1B</a>.</p><iframe
+    src="https://www.slideshare.net/slideshow/embed_code/key/7fVhVOwRIGSw2V" width="427"
+    height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px
+    solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen>
+    </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/hkarau/spark-autotuning-talk-strata-new-york"
+    title="Spark Autotuning Talk - Strata New York" target="_blank">Spark Autotuning
+    Talk - Strata New York</a> </strong> from <strong><a href="https://www.slideshare.net/hkarau"
+    target="_blank">Holden Karau</a></strong> </div>
+
+
+    Comment bellow to join in the discussion :).<a href="http://bit.ly/holdenTalkFeedback">Talk
+    feedback is appreciated at http://bit.ly/holdenTalkFeedback</a>'
   location: New York, NY, USA
   parsed: null
   post_id: '2643174449969686347'
   post_link: http://blog.holdenkarau.com/2018/09/understanding-spark-tuning-with-auto_12.html
+  related_links: null
+  related_video: null
   repo_link: https://github.com/high-performance-spark/robin-sparkles
+  room: null
+  short_codelab_link: null
   short_discussion_link: null
   short_event_link: null
   short_post_link: http://bit.ly/2CNcpUQ
+  short_related_video: null
   short_repo_link: http://bit.ly/2x4huTq
-  short_slides_link: null
+  short_slides_link: http://bit.ly/2D8pU1B
   short_talk_link: https://oreil.ly/2LT6QU0
   short_video_link: null
   slides_link: https://www.slideshare.net/hkarau/spark-autotuning-talk-strata-new-york
   start: 2018-09-13 11:20:00-04:00
   synced_to_blog: null
   tags: null
-  talk_description: "Apache Spark is an amazing distributed system, but part of the bargain we’ve made with the infrastructure deamons involves providing the correct set of magic numbers (aka tuning) or our jobs may be eaten by Cthulhu. Tuning Apache Spark is somewhat of a dark art, although thankfully, when it goes wrong all we tend to lose is several hours of our day and our employers money.
+  talk_description: 'Apache Spark is an amazing distributed system, but part of the
+    bargain weve made with the infrastructure deamons involves providing the correct
+    set of magic numbers (aka tuning) or our jobs may be eaten by Cthulhu. Tuning
+    Apache Spark is somewhat of a dark art, although thankfully, when it goes wrong
+    all we tend to lose is several hours of our day and our employers money.
 
-Holden Karau, Rachel Warren, and Anya Bida explore auto-tuning jobs using both historical and live job information, using systems like Apache BEAM, Mahout, and internal Spark ML jobs as workloads. Much of the data required to effectively tune jobs is already collected inside of Spark. You just need to understand it. Holden, Rachel, and Anya outline sample auto-tuners and discuss the options for improving them and applying similar techniques in your own work. They also discuss what kind of tuning can be done statically (e.g., without depending on historic information) and look at Spark’s own built-in components for auto-tuning (currently dynamically scaling cluster size) and how you can improve them.
+    Holden Karau, Rachel Warren, and Anya Bida explore auto-tuning jobs using both
+    historical and live job information, using systems like Apache BEAM, Mahout, and
+    internal Spark ML jobs as workloads. Much of the data required to effectively
+    tune jobs is already collected inside of Spark. You just need to understand it.
+    Holden, Rachel, and Anya outline sample auto-tuners and discuss the options for
+    improving them and applying similar techniques in your own work. They also discuss
+    what kind of tuning can be done statically (e.g., without depending on historic
+    information) and look at Sparks own built-in components for auto-tuning (currently
+    dynamically scaling cluster size) and how you can improve them.
 
-Even if the idea of building an auto-tuner sounds as appealing as using a rusty spoon to debug the JVM on a haunted supercomputer, this talk will give you a better understanding of the knobs available to you to tune your Apache Spark jobs.
+    Even if the idea of building an auto-tuner sounds as appealing as using a rusty
+    spoon to debug the JVM on a haunted supercomputer, this talk will give you a better
+    understanding of the knobs available to you to tune your Apache Spark jobs.
 
-Also, to be clear, Holden, Rachel, and Anya don’t promise to stop your pager going off at 2:00am, but hopefully this helps."
+    Also, to be clear, Holden, Rachel, and Anya dont promise to stop your pager going
+    off at 2:00am, but hopefully this helps.'
   talk_link: https://conferences.oreilly.com/strata/strata-ny/public/schedule/detail/67936
   title: Understanding Spark tuning with auto-tuning; or, Magical spells to stop your
     pager going off
   video_link: null
+'signal:End to End ML with Kubeflow: Scaling with Big & Tiny Data (+ deep learning of course)':
+  blog_fmt_text: null
+  codelab_link: https://codelabs.developers.google.com/codelabs/cloud-kubeflow-e2e-gis/index.html?index=..%2F..%2Findex#0
+  copresenters: null
+  date: 2018-10-17
+  description: "There are many great tools for training machine learning tools, ranging\
+    \ from sci-kit to Apache Spark, and tensorflow. However many of these systems\
+    \ largely leave open the question how to use our models outside of the batch world\
+    \ (like in a reactive application). Different options exist for persisting the\
+    \ results and using them for live training, and we will explore the trade-offs\
+    \ of the different formats and their corresponding serving/prediction layers.\
+    \ We'll tie this all together with Kubeflow as well as showing how it can be used\
+    \ with different systems. Time permitting we\u2019ll talk about designing clients\
+    \ for graceful degradation when everything eventually catches on fire."
+  discussion_link: null
+  event_link: https://signal.twilio.com/
+  event_name: signal
+  event_type: null
+  last_post_text: 'Thanks for joining <a href=''http://www.twitter.com/holdenkarau''>me</a>
+    on 2018-10-17 at signal 2018 San Francisco, CA, USA for End to End ML with Kubeflow:
+    Scaling with Big & Tiny Data (+ deep learning of course).<p>The <a href="http://bit.ly/2pWFUKj">slides
+    are at http://bit.ly/2pWFUKj</a>.The <a href="http://bit.ly/2GBMp0B">video of
+    the talk is up at http://bit.ly/2GBMp0B</a>.And if you want there is a <a href="http://bit.ly/2q0yENL">related
+    codelab you can try out</a>.</p><iframe width="560" height="315" src="https://www.youtube.com/embed/l6CHgiDqo4I"
+    frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><iframe
+    src="https://www.slideshare.net/slideshow/embed_code/key/2BqS2cdxyqAvyG" width="427"
+    height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px
+    solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen>
+    </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/hkarau/intro-end-to-end-ml-with-kubeflow-signalconf-2018"
+    title="Intro - End to end ML with Kubeflow @ SignalConf 2018" target="_blank">Intro
+    - End to end ML with Kubeflow @ SignalConf 2018</a> </strong> from <strong><a
+    href="https://www.slideshare.net/hkarau" target="_blank">Holden Karau</a></strong>
+    </div>
+
+
+    Comment bellow to join in the discussion :).<a href="http://bit.ly/holdenTalkFeedback">Talk
+    feedback is appreciated at http://bit.ly/holdenTalkFeedback</a>'
+  location: San Francisco, CA, USA
+  parsed: null
+  post_id: '3119692141654059903'
+  post_link: http://blog.holdenkarau.com/2018/10/end-to-end-ml-with-kubeflow-scaling.html
+  related_links: null
+  related_video: null
+  repo_link: null
+  room: null
+  short_codelab_link: http://bit.ly/2q0yENL
+  short_discussion_link: null
+  short_event_link: http://bit.ly/2R06iPf
+  short_post_link: http://bit.ly/2CJduw4
+  short_related_video: null
+  short_repo_link: null
+  short_slides_link: http://bit.ly/2pWFUKj
+  short_talk_link: null
+  short_video_link: http://bit.ly/2GBMp0B
+  slides_link: https://www.slideshare.net/hkarau/intro-end-to-end-ml-with-kubeflow-signalconf-2018
+  start: 2018-10-17 15:45:00-07:00
+  synced_to_blog: null
+  tags: ['#signal', '#signalconf']
+  talk_description: null
+  talk_link: null
+  title: 'End to End ML with Kubeflow: Scaling with Big & Tiny Data (+ deep learning
+    of course)'
+  video_link: https://youtu.be/l6CHgiDqo4I
