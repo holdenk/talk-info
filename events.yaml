@@ -457,6 +457,38 @@ FOSDEM:Predicting areas for PR Comments based on Code Vectors & Mailing List Dat
   talk_link: null
   title: Predicting areas for PR Comments based on Code Vectors & Mailing List Data
   video_link: null
+FOSDEM:Validating Big Data Jobs An exploration with @ApacheSpark & @ApacheAirflow (+ friends): {
+  blog_fmt_text: null, codelab_link: null, copresenters: null, date: 2019-02-03, description: "If\
+    \ you, like close to half the industry, are deploying the results of you big data\
+    \ jobs into production automatically then existing unit and integration tests\
+    \ may not be enough to present serious failures. Even if you aren\u2019t automatically\
+    \ deploying the results to production, having a more reliable deploy to production\
+    \ pipeline with automatic validation is well worth the time.\n\nIf you, like close\
+    \ to half the industry, are deploying the results of you big data jobs into production\
+    \ automatically then existing unit and integration tests may not be enough to\
+    \ present serious failures. Even if you aren\u2019t automatically deploying the\
+    \ results to production, having a more reliable deploy to production pipeline\
+    \ with automatic validation is well worth the time.\n\nValidating Big Data Jobs\
+    \ sounds expensive and hard, but with a variety of techniques can be done relatively\
+    \ easily with only minimal additional instrumentation overhead. We\u2019ll explore\
+    \ the kinds of instrumentation to add to your pipeline to make it easier to validate.\
+    \ For jobs with hard to meet SLAs we\u2019ll also explore what can be done with\
+    \ existing metrics and parallel data validation jobs.\n\nAfter exploring common\
+    \ industry practices for Data Validation we\u2019ll explore how to integrate these\
+    \ into an Airflow pipeline while making it recoverable if manual validation over-rules\
+    \ the automatic safeguards.", discussion_link: null, event_link: 'https://fosdem.org/2019/schedule/track/hpc,_big_data_and_data_science/',
+  event_name: FOSDEM, event_type: null, last_post_text: 'Thanks for joining <a href=''http://www.twitter.com/holdenkarau''>me</a>
+    on 2019-02-03 at FOSDEM 2019 Brussels, Belgium for Validating Big Data Jobs An
+    exploration with @ApacheSpark & @ApacheAirflow (+ friends).I''ll update this post
+    with the slides soon.Comment bellow to join in the discussion :).<a href="http://bit.ly/holdenTalkFeedback">Talk
+    feedback is appreciated at http://bit.ly/holdenTalkFeedback</a>', location: 'Brussels,
+    Belgium', parsed: null, post_id: '658718056923955638', post_link: 'http://blog.holdenkarau.com/2019/02/validating-big-data-jobs-exploration.html',
+  related_links: null, related_video: null, repo_link: null, room: null, short_codelab_link: null,
+  short_discussion_link: null, short_event_link: 'http://bit.ly/2F19asd', short_post_link: 'http://bit.ly/2RIyO7G',
+  short_related_video: null, short_repo_link: null, short_slides_link: null, short_talk_link: null,
+  short_video_link: null, slides_link: null, start: !!timestamp '2019-02-03 16:00:00+01:00',
+  synced_to_blog: null, tags: null, talk_description: null, talk_link: null, title: Validating
+    Big Data Jobs An exploration with @ApacheSpark & @ApacheAirflow (+ friends), video_link: null}
 Festival de Software Libre:Dealing With Contributor Overload:
   blog_fmt_text: null
   codelab_link: null
