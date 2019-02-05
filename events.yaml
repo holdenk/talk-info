@@ -337,19 +337,126 @@ Big Data Spain:Validating Big Data Jobs - Stopping Failures before Production (w
 Data Day Texas:Understanding Spark Tuning with Auto Tuning (or how to stop your pager going off: {
   blog_fmt_text: null, codelab_link: null, copresenters: null, date: 2019-01-26, description: null,
   discussion_link: null, event_link: 'https://datadaytexas.com/2019/sessions', event_name: Data
-    Day Texas, event_type: null, last_post_text: 'Come join <a href=''http://www.twitter.com/holdenkarau''>me</a>
-    on Saturday 26. January 2019 at Data Day Texas 2019 Austin, TX, USA for Understanding
-    Spark Tuning with Auto Tuning (or how to stop your pager going off.I''ll update
-    this post with the slides soon.Come see to the talk or comment bellow to join
-    in the discussion :).<a href="http://bit.ly/holdenTalkFeedback">Talk feedback
-    is appreciated at http://bit.ly/holdenTalkFeedback</a>', location: 'Austin, TX,
-    USA', parsed: null, post_id: '5496910014092611319', post_link: 'http://blog.holdenkarau.com/2018/12/understanding-spark-tuning-with-auto.html',
+    Day Texas, event_type: null, last_post_text: 'Thanks for joining <a href=''http://www.twitter.com/holdenkarau''>me</a>
+    on 2019-01-26 at Data Day Texas 2019 Austin, TX, USA for Understanding Spark Tuning
+    with Auto Tuning (or how to stop your pager going off.I''ll update this post with
+    the slides soon.Comment bellow to join in the discussion :).<a href="http://bit.ly/holdenTalkFeedback">Talk
+    feedback is appreciated at http://bit.ly/holdenTalkFeedback</a>', location: 'Austin,
+    TX, USA', parsed: null, post_id: '5496910014092611319', post_link: 'http://blog.holdenkarau.com/2018/12/understanding-spark-tuning-with-auto.html',
   related_links: null, related_video: null, repo_link: null, room: null, short_codelab_link: null,
   short_discussion_link: null, short_event_link: 'http://bit.ly/2RnyXl0', short_post_link: 'http://bit.ly/2RnuTkJ',
   short_related_video: null, short_repo_link: null, short_slides_link: null, short_talk_link: null,
   short_video_link: null, slides_link: null, start: null, synced_to_blog: null, tags: null,
   talk_description: null, talk_link: null, title: Understanding Spark Tuning with
     Auto Tuning (or how to stop your pager going off, video_link: null}
+FOSDEM:Introducing @Kubeflow (w. Special Guests Tensorflow and @ApacheSpark):
+  blog_fmt_text: null
+  codelab_link: null
+  copresenters: ['@rawkintrevo']
+  date: 2019-02-03
+  description: "Data Science, Machine Learning, and Artificial Intelligence has exploded\
+    \ in popularity in the last five years, but the nagging question remains, \u201C\
+    How to put models into production?\u201D Engineers are typically tasked to build\
+    \ one-off systems to serve predictions which must be maintained amid a quickly\
+    \ evolving back-end serving space which has evolved from single-machine, to custom\
+    \ clusters, to \u201Cserverless\u201D, to Docker, to Kubernetes. In this talk,\
+    \ we present KubeFlow- an open source project which makes it easy for users to\
+    \ move models from laptop to ML Rig to training cluster to deployment. In this\
+    \ talk we will discuss, \u201CWhat is KubeFlow?\u201D, \u201Cwhy scalability is\
+    \ so critical for training and model deployment?\u201D, and other topics.\nUsers\
+    \ can deploy models written in Python\u2019s skearn, R, Tensorflow, Spark, and\
+    \ many more. The magic of Kubernetes allows data scientists to write models on\
+    \ their laptop, deploy to an ML-Rig, and then devOps can move that model into\
+    \ production with all of the bells and whistles such as monitoring, A/B tests,\
+    \ multi-arm bandits, and security."
+  discussion_link: null
+  event_link: https://fosdem.org/2019/schedule/track/hpc,_big_data_and_data_science/
+  event_name: FOSDEM
+  event_type: null
+  last_post_text: Thanks for joining us (<a href='https://www.twitter.com/holdenkarau'>@holdenkarau</a>,<a
+    href='https://www.twitter.com/rawkintrevo'>@rawkintrevo</a>) on 2019-02-03 at
+    FOSDEM 2019 Brussels, Belgium for Introducing @Kubeflow (w. Special Guests Tensorflow
+    and @ApacheSpark).I'll update this post with the slides soon.Comment bellow to
+    join in the discussion :).<a href="http://bit.ly/holdenTalkFeedback">Talk feedback
+    is appreciated at http://bit.ly/holdenTalkFeedback</a>
+  location: Brussels, Belgium
+  parsed: null
+  post_id: '8324229657845103423'
+  post_link: http://blog.holdenkarau.com/2019/02/introducing-kubeflow-w-special-guests.html
+  related_links: null
+  related_video: null
+  repo_link: null
+  room: null
+  short_codelab_link: null
+  short_discussion_link: null
+  short_event_link: http://bit.ly/2F19asd
+  short_post_link: http://bit.ly/2Rw5UHW
+  short_related_video: null
+  short_repo_link: null
+  short_slides_link: null
+  short_talk_link: null
+  short_video_link: null
+  slides_link: null
+  start: 2019-02-03 13:40:00+01:00
+  synced_to_blog: null
+  tags: null
+  talk_description: null
+  talk_link: null
+  title: Introducing @Kubeflow (w. Special Guests Tensorflow and @ApacheSpark)
+  video_link: null
+FOSDEM:Predicting areas for PR Comments based on Code Vectors & Mailing List Data:
+  blog_fmt_text: null
+  codelab_link: null
+  copresenters: ['@krisnova']
+  date: 2019-02-03
+  description: "Many of us have seen the small PR changing 20 lines with 20 comments\
+    \ and the large PR with over 1k line changes sail through (or stall) with no comments\
+    \ because who has the time to read all that text? What if we could predict areas\
+    \ of the PR that are more likely to need attention?\nMany of us have seen the\
+    \ small PR changing 20 lines with 20 comments and the large PR with over 1k line\
+    \ changes sail through (or stall) with no comments because who has the time to\
+    \ read all that text? What if we could predict areas of the PR that are more likely\
+    \ to need attention? This talk will explore creating a model to predict areas\
+    \ of PRs that will generate comments on, using a combination of historic comment\
+    \ data and mailing list stack traces. Then once we\u2019ve built this model we\u2019\
+    ll explore how to serve it live with Kubeflow as well as how Kubeflow and K8s\
+    \ can work together to allow us to scale our model training to a larger set of\
+    \ projects."
+  discussion_link: null
+  event_link: https://fosdem.org/2019/schedule/track/ml_on_code/
+  event_name: FOSDEM
+  event_type: null
+  last_post_text: Thanks for joining us (<a href='https://www.twitter.com/holdenkarau'>@holdenkarau</a>,<a
+    href='https://www.twitter.com/krisnova'>@krisnova</a>) on 2019-02-03 at FOSDEM
+    2019 Brussels, Belgium for Predicting areas for PR Comments based on Code Vectors
+    & Mailing List Data.I'll update this post with the slides soon.Comment bellow
+    to join in the discussion :).<a href="http://bit.ly/holdenTalkFeedback">Talk feedback
+    is appreciated at http://bit.ly/holdenTalkFeedback</a>
+  location: Brussels, Belgium
+  parsed: null
+  post_id: '5820683268317140111'
+  post_link: http://blog.holdenkarau.com/2019/01/predicting-areas-for-pr-comments-based.html
+  related_links: null
+  related_video: null
+  repo_link: null
+  room: null
+  short_codelab_link: null
+  short_discussion_link: null
+  short_event_link: http://bit.ly/2RmWIcY
+  short_post_link: http://bit.ly/2F0JvzS
+  short_related_video: null
+  short_repo_link: null
+  short_slides_link: null
+  short_talk_link: null
+  short_video_link: null
+  slides_link: null
+  start: 2019-02-03 11:50:00+01:00
+  synced_to_blog: null
+  tags: null
+  talk_description: null
+  talk_link: null
+  title: Predicting areas for PR Comments based on Code Vectors & Mailing List Data
+  video_link: null
 Festival de Software Libre:Dealing With Contributor Overload:
   blog_fmt_text: null
   codelab_link: null
@@ -657,6 +764,39 @@ Lambda World Seattle:Bringing the Jewels of the Python world (including Spacy) t
   talk_link: https://ossna18.sched.com/event/FAOJ/introducing-kubeflow-a-system-for-deploying-mlai-on-kubernetes-trevor-grant-ibm-holden-karau-google
   title: 'Introducing KubeFlow: A System for Deploying ML/AI on Kubernetes '
   video_link: null
+Pre-FOSDEM Belgium Kubernetes Meetup:Apache Spark on Kubernetes -- Avoiding the pain of YARN: {
+  blog_fmt_text: null, codelab_link: null, copresenters: null, date: 2019-02-02, description: null,
+  discussion_link: null, event_link: 'https://www.meetup.com/kubernetes-belgium/events/257513282/',
+  event_name: Pre-FOSDEM Belgium Kubernetes Meetup, event_type: null, last_post_text: 'Thanks
+    for joining <a href=''http://www.twitter.com/holdenkarau''>me</a> on 2019-02-02  for
+    Apache Spark on Kubernetes -- Avoiding the pain of YARN.The talk covered: <p>Apache
+    Spark is one of the most popular big data tools, and starting last year has had
+    integrated support for running on Kubernetes. This talk will introduce some of
+    the use cases of Apache Spark quickly (machine learning, ETL, etc.) and then look
+    at the current cluster managers Spark runs on and their limitations. Most of the
+    focus will be around running non-Java code, and the challenges associated with
+    dependencies along with general challenges like scale-up &amp; down. Its not all
+    sunshine and roses though, I will talk about some of the limitations of our current
+    approach and the work being done to improve this.</p>
+
+    .I''ll update this post with the slides soon.Comment bellow to join in the discussion
+    :).<a href="http://bit.ly/holdenTalkFeedback">Talk feedback is appreciated at
+    http://bit.ly/holdenTalkFeedback</a>', location: null, parsed: null, post_id: '2828534521394391309',
+  post_link: 'http://blog.holdenkarau.com/2019/02/apache-spark-on-kubernetes-avoiding.html',
+  related_links: null, related_video: null, repo_link: null, room: null, short_codelab_link: null,
+  short_discussion_link: null, short_event_link: 'http://bit.ly/2WBheWP', short_post_link: 'http://bit.ly/2WvCpdb',
+  short_related_video: null, short_repo_link: null, short_slides_link: null, short_talk_link: null,
+  short_video_link: null, slides_link: null, start: !!timestamp '2019-02-02 18:00:00+01:00',
+  synced_to_blog: null, tags: null, talk_description: 'Apache Spark is one of the
+    most popular big data tools, and starting last year has had integrated support
+    for running on Kubernetes. This talk will introduce some of the use cases of Apache
+    Spark quickly (machine learning, ETL, etc.) and then look at the current cluster
+    managers Spark runs on and their limitations. Most of the focus will be around
+    running non-Java code, and the challenges associated with dependencies along with
+    general challenges like scale-up & down. Its not all sunshine and roses though,
+    I will talk about some of the limitations of our current approach and the work
+    being done to improve this.', talk_link: null, title: Apache Spark on Kubernetes
+    -- Avoiding the pain of YARN, video_link: null}
 'Reversim Summit 2018:The magic of distributed systems: when it all breaks and why':
   blog_fmt_text: null
   codelab_link: null
